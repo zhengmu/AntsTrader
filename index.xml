@@ -6,7 +6,23 @@
     <description>Recent content on AntsTrader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Jan 2024 13:00:01 -0700</lastBuildDate><atom:link href="https://zhengmu.github.io/AntsTrader/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 21 Jan 2024 13:00:01 -0700</lastBuildDate><atom:link href="https://zhengmu.github.io/AntsTrader/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023 12 trade records &amp; summary</title>
+      <link>https://zhengmu.github.io/AntsTrader/posts/2023-12/</link>
+      <pubDate>Sun, 21 Jan 2024 13:00:01 -0700</pubDate>
+      
+      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-12/</guid>
+      <description>2023-12 Monthly Summary
+The sum of sells with gain-only are +$13,094.53
+The sum of sells with lost-only are -$92,475.400.00
+The net gain, including Robinwoods(bitcoin), is +$-79,380.88
+ Year-To-Month gain, including Robinwoods(bitcoin), is +$51,620.02
+ Year-To-Month gain break down by month.
+ Monthly gain per stock, sorted by the gain in 2023-12  All trades are based on the trade style described in
+How to Be a Happy Active Stock Trader</description>
+    </item>
+    
     <item>
       <title>2024 01 trade records</title>
       <link>https://zhengmu.github.io/AntsTrader/posts/2024-01/</link>
@@ -21,22 +37,6 @@
  2024-01-12 Dow -0.31% Nasdaq +0.02% S&amp;amp;P 500 +0.08%
  2024-01-11 Dow +0.04% Nasdaq +0.00% S&amp;amp;P 500 -0.07%
  2024-01-10 Dow +0.45% Nasdaq +0.75% S&amp;amp;P 500 +0.57%</description>
-    </item>
-    
-    <item>
-      <title>2023 12 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-12/</link>
-      <pubDate>Fri, 29 Dec 2023 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-12/</guid>
-      <description>2023-12-29 Dow -0.05% Nasdaq -0.56% S&amp;amp;P 500 -0.28%
- 2023-12-28 Dow +0.14% Nasdaq -0.03% S&amp;amp;P 500 +0.04%
- 2023-12-27 Dow +0.30% Nasdaq +0.16% S&amp;amp;P 500 +0.14%
- 2023-12-26 Dow +0.43% Nasdaq +0.54% S&amp;amp;P 500 +0.42%
- 2023-12-22 Dow -0.05% Nasdaq +0.19% S&amp;amp;P 500 +0.17%
- 2023-12-21 Dow +0.87% Nasdaq +1.26% S&amp;amp;P 500 +1.03%
- 2023-12-20 Dow -1.27% Nasdaq -1.50% S&amp;amp;P 500 -1.47%
- 2023-12-19 Dow +0.68% Nasdaq +0.66% S&amp;amp;P 500 +0.</description>
     </item>
     
     <item>
