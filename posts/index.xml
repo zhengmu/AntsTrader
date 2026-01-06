@@ -6,21 +6,7 @@
     <description>Recent content in Posts on AntsTrader</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 05 Jan 2026 13:00:01 -0700</lastBuildDate><atom:link href="https://zhengmu.github.io/AntsTrader/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026 01 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-01/</link>
-      <pubDate>Mon, 05 Jan 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-01/</guid>
-      <description>2026-01-05 Dow +1.23% Nasdaq +0.69% S&amp;amp;P 500 +0.64%  2026-01-02 Dow +0.66% Nasdaq -0.03% S&amp;amp;P 500 +0.19%  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS   See introduction video on YouTube
-https://youtu.be/toGaORgiaxg English version on 2021-12-16
-https://youtu.be/CBkMe1yc2iw Chinese version on 2021-10-21 如何提升股票交易中的快乐指数
-   </description>
-    </item>
-    
+    <lastBuildDate>Wed, 31 Dec 2025 13:00:01 -0700</lastBuildDate><atom:link href="https://zhengmu.github.io/AntsTrader/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2025 12 trade records</title>
       <link>https://zhengmu.github.io/AntsTrader/posts/2025-12/</link>
@@ -773,6 +759,19 @@ Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  Appended a limit sell of 
       <description>All trades are based on the trade style described in
 How to Be a Happy Active Stock Trader
 Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2021-12-31 Continued to sell some underwater stock position to reduce the tax on short-term gain. Today has record-high 60 trades  2021-12-30 Continued to sell some underwater stock position to reduce the tax on short-term gain. Need to pay attention to avoid WASH SALE  2021-12-29 Continued to sell some underwater stock position to reduce the tax on short-term gain.</description>
+    </item>
+    
+    <item>
+      <title>2026 01 trade records</title>
+      <link>https://zhengmu.github.io/AntsTrader/posts/2026-01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-01/</guid>
+      <description>2026-01-06 Dow +0.99% Nasdaq +0.65% S&amp;amp;P 500 +0.62%  2026-01-05 Dow +1.23% Nasdaq +0.69% S&amp;amp;P 500 +0.64%  2026-01-02 Dow +0.66% Nasdaq -0.03% S&amp;amp;P 500 +0.19%  All trades are based on the trade style described in
+How to Be a Happy Active Stock Trader
+Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS   See introduction video on YouTube
+https://youtu.be/toGaORgiaxg English version on 2021-12-16
+https://youtu.be/CBkMe1yc2iw Chinese version on 2021-10-21 如何提升股票交易中的快乐指数</description>
     </item>
     
   </channel>
