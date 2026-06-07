@@ -1,823 +1,416 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>AntsTrader</title>
-    <link>https://zhengmu.github.io/AntsTrader/</link>
-    <description>Recent content on AntsTrader</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 03 Jun 2026 13:00:01 -0700</lastBuildDate><atom:link href="https://zhengmu.github.io/AntsTrader/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>2026 06 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-06/</link>
-      <pubDate>Wed, 03 Jun 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-06/</guid>
-      <description>2026-06-03 Dow -1.21% Nasdaq -0.89% S&amp;amp;P 500 -0.74%  2026-06-02 Dow +0.45% Nasdaq +0.03% S&amp;amp;P 500 +0.13%  2026-06-01 Dow +0.09% Nasdaq +0.42% S&amp;amp;P 500 +0.26%  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS   See introduction video on YouTube
-https://youtu.be/toGaORgiaxg English version on 2021-12-16
-https://youtu.be/CBkMe1yc2iw Chinese version on 2021-10-21 如何提升股票交易中的快乐指数</description>
-    </item>
-    
-    <item>
-      <title>2026 05 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-05/</link>
-      <pubDate>Fri, 29 May 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-05/</guid>
-      <description>2026-05-29 Dow +0.72% Nasdaq +0.20% S&amp;amp;P 500 +0.22%  2026-05-28 Dow +0.05% Nasdaq +0.91% S&amp;amp;P 500 +0.58%  2026-05-27 Dow +0.36% Nasdaq +0.07% S&amp;amp;P 500 +0.02%  2026-05-26 Dow -0.23% Nasdaq +1.19% S&amp;amp;P 500 +0.61%  2026-05-22 Dow +0.78% Nasdaq +0.19% S&amp;amp;P 500 +0.37%  2026-05-21 Dow +0.55% Nasdaq +0.09% S&amp;amp;P 500 +0.17%  2026-05-20 Dow +1.31% Nasdaq +1.55% S&amp;amp;P 500 +1.08%  2026-05-19 Dow -0.65% Nasdaq -0.84% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2026 04 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-04/</link>
-      <pubDate>Thu, 30 Apr 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-04/</guid>
-      <description>2026-04-30 Dow +1.62% Nasdaq +0.89% S&amp;amp;P 500 +1.02%  2026-04-29 Dow -0.57% Nasdaq +0.04% S&amp;amp;P 500 -0.04%  2026-04-28 Dow -0.05% Nasdaq -0.90% S&amp;amp;P 500 -0.49%  2026-04-27 Dow -0.13% Nasdaq +0.20% S&amp;amp;P 500 +0.12%  2026-04-24 Dow -0.17% Nasdaq +1.63% S&amp;amp;P 500 +0.80%  2026-04-23 Dow -0.36% Nasdaq -0.89% S&amp;amp;P 500 -0.41%  2026-04-22 Dow +0.69% Nasdaq +1.64% S&amp;amp;P 500 +1.05%  2026-04-21 Dow -0.59% Nasdaq -0.59% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2026 03 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-03/</link>
-      <pubDate>Tue, 31 Mar 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-03/</guid>
-      <description>2026-03-31 Dow +2.49% Nasdaq +3.83% S&amp;amp;P 500 +2.91%  2026-03-30 Dow +0.11% Nasdaq -0.73% S&amp;amp;P 500 -0.39%  2026-03-27 Dow -1.73% Nasdaq -2.15% S&amp;amp;P 500 -1.67%  2026-03-26 Dow -1.01% Nasdaq -2.38% S&amp;amp;P 500 -1.74%  2026-03-25 Dow +0.66% Nasdaq +0.77% S&amp;amp;P 500 +0.54%  2026-03-24 Dow -0.18% Nasdaq -0.84% S&amp;amp;P 500 -0.37%  2026-03-23 Dow +1.38% Nasdaq +1.38% S&amp;amp;P 500 +1.15%  2026-03-20 Dow -0.96% Nasdaq -2.01% S&amp;amp;P 500 -1.</description>
-    </item>
-    
-    <item>
-      <title>2026 02 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-02/</link>
-      <pubDate>Fri, 27 Feb 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-02/</guid>
-      <description>2026-02-27 Dow -1.03% Nasdaq -0.92% S&amp;amp;P 500 -0.43%  2026-02-26 Dow +0.03% Nasdaq -1.18% S&amp;amp;P 500 -0.54%  2026-02-25 Dow +0.63% Nasdaq +1.26% S&amp;amp;P 500 +0.81%  2026-02-24 Dow +0.76% Nasdaq +1.04% S&amp;amp;P 500 +0.77%  2026-02-23 Dow -1.66% Nasdaq -1.13% S&amp;amp;P 500 -1.04%  2026-02-20 Dow +0.47% Nasdaq +0.90% S&amp;amp;P 500 +0.69%  2026-02-19 Dow -0.54% Nasdaq -0.31% S&amp;amp;P 500 -0.28%  2026-02-18 Dow +0.26% Nasdaq +0.78% S&amp;amp;P 500 +0.</description>
-    </item>
-    
-    <item>
-      <title>2026 01 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2026-01/</link>
-      <pubDate>Fri, 30 Jan 2026 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2026-01/</guid>
-      <description>2026-01-30 Dow -0.36% Nasdaq -0.94% S&amp;amp;P 500 -0.43%  2026-01-29 Dow +0.11% Nasdaq -0.72% S&amp;amp;P 500 -0.13%  2026-01-28 Dow +0.02% Nasdaq +0.17% S&amp;amp;P 500 -0.01%  2026-01-27 Dow -0.83% Nasdaq +0.91% S&amp;amp;P 500 +0.41%  2026-01-26 Dow +0.64% Nasdaq +0.43% S&amp;amp;P 500 +0.50%  2026-01-23 Dow -0.58% Nasdaq +0.28% S&amp;amp;P 500 +0.03%  2026-01-22 Dow +0.63% Nasdaq +0.91% S&amp;amp;P 500 +0.55%  2026-01-21 Dow +1.21% Nasdaq +1.18% S&amp;amp;P 500 +1.</description>
-    </item>
-    
-    <item>
-      <title>2025 12 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-12/</link>
-      <pubDate>Wed, 31 Dec 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-12/</guid>
-      <description>2025-12-31 Dow -0.63% Nasdaq -0.76% S&amp;amp;P 500 -0.74%  2025-12-30 Dow -0.20% Nasdaq -0.23% S&amp;amp;P 500 -0.14%  2025-12-29 Dow -0.51% Nasdaq -0.50% S&amp;amp;P 500 -0.35%  2025-12-26 Dow -0.04% Nasdaq -0.09% S&amp;amp;P 500 -0.03%  2025-12-24 Dow +0.60% Nasdaq +0.22% S&amp;amp;P 500 +0.32%  2025-12-23 Dow +0.16% Nasdaq +0.57% S&amp;amp;P 500 +0.46%  2025-12-22 Dow +0.47% Nasdaq +0.52% S&amp;amp;P 500 +0.64%  2025-12-19 Dow +0.38% Nasdaq +1.31% S&amp;amp;P 500 +0.</description>
-    </item>
-    
-    <item>
-      <title>2025 11 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-11/</link>
-      <pubDate>Fri, 28 Nov 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-11/</guid>
-      <description>2025-11-28 Dow +0.61% Nasdaq +0.65% S&amp;amp;P 500 +0.54%  2025-11-26 Dow +0.67% Nasdaq +0.82% S&amp;amp;P 500 +0.69%  2025-11-25 Dow +1.43% Nasdaq +0.67% S&amp;amp;P 500 +0.91%  2025-11-24 Dow +0.44% Nasdaq +2.69% S&amp;amp;P 500 +1.55%  2025-11-21 Dow +1.08% Nasdaq +0.88% S&amp;amp;P 500 +0.98%  2025-11-20 Dow -0.84% Nasdaq -2.15% S&amp;amp;P 500 -1.56%  2025-11-19 Dow +0.10% Nasdaq +0.59% S&amp;amp;P 500 +0.38%  2025-11-18 Dow -1.07% Nasdaq -1.21% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2025 10 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-10/</link>
-      <pubDate>Fri, 31 Oct 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-10/</guid>
-      <description>2025-10-31 Dow +0.09% Nasdaq +0.61% S&amp;amp;P 500 +0.26%  2025-10-30 Dow -0.23% Nasdaq -1.57% S&amp;amp;P 500 -0.99%  2025-10-29 Dow -0.16% Nasdaq +0.55% S&amp;amp;P 500 -0.00%  2025-10-28 Dow +0.34% Nasdaq +0.80% S&amp;amp;P 500 +0.23%  2025-10-27 Dow +0.71% Nasdaq +1.86% S&amp;amp;P 500 +1.23%  2025-10-24 Dow +1.01% Nasdaq +1.15% S&amp;amp;P 500 +0.79%  2025-10-23 Dow +0.31% Nasdaq +0.89% S&amp;amp;P 500 +0.58%  2025-10-22 Dow -0.71% Nasdaq -0.93% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2025 09 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-09/</link>
-      <pubDate>Tue, 30 Sep 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-09/</guid>
-      <description>2025-09-30 Dow +0.18% Nasdaq +0.30% S&amp;amp;P 500 +0.41%  2025-09-29 Dow +0.16% Nasdaq +0.48% S&amp;amp;P 500 +0.26%  2025-09-26 Dow +0.65% Nasdaq +0.44% S&amp;amp;P 500 +0.59%  2025-09-25 Dow -0.38% Nasdaq -0.50% S&amp;amp;P 500 -0.50%  2025-09-24 Dow -0.37% Nasdaq -0.34% S&amp;amp;P 500 -0.28%  2025-09-23 Dow -0.19% Nasdaq -0.95% S&amp;amp;P 500 -0.55%  2025-09-22 Dow +0.14% Nasdaq +0.70% S&amp;amp;P 500 +0.44%  2025-09-19 Dow +0.37% Nasdaq +0.71% S&amp;amp;P 500 +0.</description>
-    </item>
-    
-    <item>
-      <title>2025 08 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-08/</link>
-      <pubDate>Fri, 29 Aug 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-08/</guid>
-      <description>2025-08-29 Dow -0.20% Nasdaq -1.15% S&amp;amp;P 500 -0.64%
-Didn&amp;rsquo;t do trade today due to long hour flight
- 2025-08-28 Dow +0.16% Nasdaq +0.54% S&amp;amp;P 500 +0.32%
- 2025-08-27 Dow +0.32% Nasdaq +0.21% S&amp;amp;P 500 +0.41%
- 2025-08-26 Dow +0.30% Nasdaq +0.44% S&amp;amp;P 500 +0.41%
- 2025-08-25 Dow -0.77% Nasdaq -0.22% S&amp;amp;P 500 -0.43%
- 2025-08-22 Dow +1.89% Nasdaq +1.88% S&amp;amp;P 500 +1.52%
- 2025-08-21 Dow -0.34% Nasdaq -0.34% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2025 07 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-07/</link>
-      <pubDate>Thu, 31 Jul 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-07/</guid>
-      <description>2025-07-31 Dow -0.74% Nasdaq -0.03% S&amp;amp;P 500 -0.37%
- 2025-07-30 Dow -0.38% Nasdaq +0.15% S&amp;amp;P 500 -0.12%
- 2025-07-29 Dow -0.46% Nasdaq -0.38% S&amp;amp;P 500 -0.30%
- 2025-07-28 Dow -0.14% Nasdaq +0.33% S&amp;amp;P 500 +0.02%
- 2025-07-25 Dow +0.47% Nasdaq +0.24% S&amp;amp;P 500 +0.40%
- 2025-07-24 Dow -0.70% Nasdaq +0.18% S&amp;amp;P 500 +0.07%
- 2025-07-23 Dow +1.14% Nasdaq +0.61% S&amp;amp;P 500 +0.78%
- 2025-07-22 Dow +0.40% Nasdaq -0.39% S&amp;amp;P 500 +0.</description>
-    </item>
-    
-    <item>
-      <title>2025 06 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-06/</link>
-      <pubDate>Mon, 30 Jun 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-06/</guid>
-      <description>2025-06-30 Dow +0.63% Nasdaq +0.47% S&amp;amp;P 500 +0.52%
- 2025-06-27 Dow +1.00% Nasdaq +0.52% S&amp;amp;P 500 +0.52%
- 2025-06-26 Dow +0.94% Nasdaq +0.97% S&amp;amp;P 500 +0.80%
- 2025-06-25 Dow -0.25% Nasdaq +0.31% S&amp;amp;P 500 -0.00%
- 2025-06-24 Dow +1.19% Nasdaq +1.43% S&amp;amp;P 500 +1.11%
- 2025-06-23 Dow +0.89% Nasdaq +0.94% S&amp;amp;P 500 +0.96%
- 2025-06-20 Dow +0.08% Nasdaq -0.51% S&amp;amp;P 500 -0.22%
- 2025-06-18 Dow -0.10% Nasdaq +0.13% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2025 05 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-05/</link>
-      <pubDate>Fri, 30 May 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-05/</guid>
-      <description>2025-05-30 Dow +0.13% Nasdaq -0.32% S&amp;amp;P 500 -0.01%
- 2025-05-29 Dow +0.28% Nasdaq +0.39% S&amp;amp;P 500 +0.40%
- 2025-05-28 Dow -0.58% Nasdaq -0.51% S&amp;amp;P 500 -0.56%
- 2025-05-27 Dow +1.78% Nasdaq +2.46% S&amp;amp;P 500 +2.05%
- 2025-05-26 US markets close due to Memorial Day
- 2025-05-23 Dow -0.61% Nasdaq -1.00% S&amp;amp;P 500 -0.67%
- 2025-05-22 Dow -0.00% Nasdaq +0.28% S&amp;amp;P 500 -0.04%
- 2025-05-21 Dow -1.91% Nasdaq -1.41% S&amp;amp;P 500 -1.</description>
-    </item>
-    
-    <item>
-      <title>2025 04 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-04/</link>
-      <pubDate>Wed, 30 Apr 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-04/</guid>
-      <description>2025-04-30 Dow +0.35% Nasdaq -0.09% S&amp;amp;P 500 +0.15%
- 2025-04-29 Dow +0.75% Nasdaq +0.55% S&amp;amp;P 500 +0.58%
- 2025-04-28 Dow +0.28% Nasdaq -0.10% S&amp;amp;P 500 +0.06%
- 2025-04-25 Dow +0.05% Nasdaq +1.26% S&amp;amp;P 500 +0.74%
- 2025-04-24 Dow +1.23% Nasdaq +2.74% S&amp;amp;P 500 +2.03%
- 2025-04-23 Dow +1.07% Nasdaq +2.50% S&amp;amp;P 500 +1.67%
- 2025-04-22 Dow +2.66% Nasdaq +2.71% S&amp;amp;P 500 +2.61%
- 2025-04-21 Dow -2.48% Nasdaq -2.55% S&amp;amp;P 500 -2.</description>
-    </item>
-    
-    <item>
-      <title>2025 03 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-03/</link>
-      <pubDate>Mon, 31 Mar 2025 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-03/</guid>
-      <description>2025-03-31 Dow +1.00% Nasdaq -0.14% S&amp;amp;P 500 +0.55%
- 2025-03-28 Dow -1.69% Nasdaq -2.70% S&amp;amp;P 500 -1.97%
- 2025-03-27 Dow -0.37% Nasdaq -0.53% S&amp;amp;P 500 -0.33%
- 2025-03-26 Dow -0.31% Nasdaq -2.04% S&amp;amp;P 500 -1.12%
- 2025-03-25 Dow +0.01% Nasdaq +0.46% S&amp;amp;P 500 +0.16%
- 2025-03-24 Dow +1.42% Nasdaq +2.27% S&amp;amp;P 500 +1.76%
- 2025-03-21 Dow +0.08% Nasdaq +0.52% S&amp;amp;P 500 +0.08%
- 2025-03-20 Dow -0.03% Nasdaq -0.33% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2025 02 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-02/</link>
-      <pubDate>Fri, 28 Feb 2025 13:00:01 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-02/</guid>
-      <description>2025-02-28 Dow +1.39% Nasdaq +1.63% S&amp;amp;P 500 +1.58%
- 2025-02-27 Dow -0.45% Nasdaq -2.78% S&amp;amp;P 500 -1.59%
- 2025-02-26 Dow -0.43% Nasdaq +0.26% S&amp;amp;P 500 +0.01%
- 2025-02-25 Dow +0.37% Nasdaq -1.35% S&amp;amp;P 500 -0.47%
- 2025-02-24 Dow +0.08% Nasdaq -1.21% S&amp;amp;P 500 -0.50%
- 2025-02-21 Dow -1.69% Nasdaq -2.20% S&amp;amp;P 500 -1.71%
- 2025-02-20 Dow -1.01% Nasdaq -0.47% S&amp;amp;P 500 -0.43%
- 2025-02-19 Dow +0.16% Nasdaq +0.07% S&amp;amp;P 500 +0.</description>
-    </item>
-    
-    <item>
-      <title>2025 01 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2025-01/</link>
-      <pubDate>Fri, 31 Jan 2025 13:00:02 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2025-01/</guid>
-      <description>2025-01 Monthly Summary
-The sum of sells with gain-only are +$18,674.32
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$18,677.33
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2025-01  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS   See introduction video on YouTube</description>
-    </item>
-    
-    <item>
-      <title>2024 12 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-12/</link>
-      <pubDate>Tue, 31 Dec 2024 13:00:02 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-12/</guid>
-      <description>2024-12 Monthly Summary
-The sum of sells with gain-only are +$22,848.27
-The sum of sells with lost-only are -$102.705.22
-The net gain, including Robinwoods(bitcoin), is -$80.746.53
-No need to pay any capital gain tax this year (✿◠‿◠)  Year-To-Month gain, including Robinwoods(bitcoin), is +$137,731.20
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-14  Yearly gain per stock, sorted by the gain in 2024  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2024 11 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-11/</link>
-      <pubDate>Fri, 29 Nov 2024 13:00:02 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-11/</guid>
-      <description>2024-11 Monthly Summary
-The sum of sells with gain-only are +$28,899.52 (Fidelity has wrong cost base for a few sell transactions.)
-The sum of sells with lost-only are -$0.00,
-The net gain, including Robinwoods(bitcoin), is +$28,899.52
- Year-To-Month gain, including Robinwoods(bitcoin), is +$218,477.73
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-11  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2024 10 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-10/</link>
-      <pubDate>Thu, 31 Oct 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-10/</guid>
-      <description>2024-10 Monthly Summary
-The sum of sells with gain-only are +$31,366.98 (Fidelity has wrong cost base for a few sell transactions.)
-The sum of sells with lost-only are -$0.00,
-The net gain, including Robinwoods(bitcoin), is +$31,366.98
- Year-To-Month gain, including Robinwoods(bitcoin), is +$190,760.73
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-10  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2024 09 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-09/</link>
-      <pubDate>Mon, 30 Sep 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-09/</guid>
-      <description>2024-09 Monthly Summary
-The sum of sells with gain-only are +$19745.32 (Fidelity has wrong cost base for a few sell transactions.)
-The sum of sells with lost-only are -$12,730.84, due to the bankrupcy of RADCQ and BFX 
-The net gain, including Robinwoods(bitcoin), is +$7014.48
- Year-To-Month gain, including Robinwoods(bitcoin), is +$158,211.23
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-09  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2024 08 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-08/</link>
-      <pubDate>Fri, 30 Aug 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-08/</guid>
-      <description>2024-08 Monthly Summary
-The sum of sells with gain-only are +$17.496.69 (Fidelity has wrong cost base for a few sell transactions.)
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$17.496.69
- Year-To-Month gain, including Robinwoods(bitcoin), is +$151,104.47
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-08  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2024 07 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-07/</link>
-      <pubDate>Wed, 31 Jul 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-07/</guid>
-      <description>2024-07 Monthly Summary
-The sum of sells with gain-only are +$21,023.12
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$21,027.17
- Year-To-Month gain, including Robinwoods(bitcoin), is +$133,607.77
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-07  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2024 06 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-06/</link>
-      <pubDate>Fri, 28 Jun 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-06/</guid>
-      <description>2024-06 Monthly Summary
-The sum of sells with gain-only are +$18,763.22
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$18,765.98
- Year-To-Month gain, including Robinwoods(bitcoin), is +$112,580.60
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-06  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2024 05 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-05/</link>
-      <pubDate>Fri, 31 May 2024 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-05/</guid>
-      <description>2024-05 Monthly Summary
-The sum of sells with gain-only are +$26,762.49
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$26,762.49
- Year-To-Month gain, including Robinwoods(bitcoin), is +$93,814.62
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-05  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2024 04 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-04/</link>
-      <pubDate>Tue, 30 Apr 2024 13:00:06 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-04/</guid>
-      <description>2024-04 Monthly Summary
-The sum of sells with gain-only are +$20,033.74
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$20,035.00
- Year-To-Month gain, including Robinwoods(bitcoin), is +$67,045.18
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-04  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2024 03 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-03/</link>
-      <pubDate>Sun, 31 Mar 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-03/</guid>
-      <description>2024-03 Monthly Summary
-The sum of sells with gain-only are +$20,601.49
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$21,119.78
- Year-To-Month gain, including Robinwoods(bitcoin), is +$47,010.18
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-03  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2024 02 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-02/</link>
-      <pubDate>Thu, 29 Feb 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-02/</guid>
-      <description>2024-02 Monthly Summary
-The sum of sells with gain-only are +$13,345.59
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$13,600.60
- Year-To-Month gain, including Robinwoods(bitcoin), is +$25,890.41
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-02  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2024 01 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2024-01/</link>
-      <pubDate>Wed, 31 Jan 2024 13:01:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2024-01/</guid>
-      <description>2024-01 Monthly Summary
-The sum of sells with gain-only are +$12,382.61
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$12,382.61
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2024-01  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS   See introduction video on YouTube</description>
-    </item>
-    
-    <item>
-      <title>2023 12 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-12/</link>
-      <pubDate>Sun, 21 Jan 2024 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-12/</guid>
-      <description>2023-12 Monthly Summary
-The sum of sells with gain-only are +$13,094.53
-The sum of sells with lost-only are -$92,475.40
-The net gain, including Robinwoods(bitcoin), is -$79,380.88
-No need to pay any capital gain tax this year (✿◠‿◠)  Year-To-Month gain, including Robinwoods(bitcoin), is +$51,620.02
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-12  Yearly gain per stock, sorted by the gain in 2023  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2023 11 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-11/</link>
-      <pubDate>Thu, 30 Nov 2023 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-11/</guid>
-      <description>2023-11 Monthly Summary
-The sum of sells with gain-only are +$14,305.21
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$14,488.61
- Year-To-Month gain, including Robinwoods(bitcoin), is +$131,000.89
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-11  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2023 10 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-10/</link>
-      <pubDate>Tue, 31 Oct 2023 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-10/</guid>
-      <description>2023-10 Monthly Summary
-The sum of sells with gain-only are +$9,914.59
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$10,640.25
- Year-To-Month gain, including Robinwoods(bitcoin), is +$116,512.28
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-10  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2023 09 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-09/</link>
-      <pubDate>Sat, 30 Sep 2023 13:01:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-09/</guid>
-      <description>2023-09 Monthly Summary
-The sum of sells with gain-only are +$10,491.08
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$10,491.08
- Year-To-Month gain, including Robinwoods(bitcoin), is +$105.237.19
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-09  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2023 08 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-08/</link>
-      <pubDate>Thu, 31 Aug 2023 13:00:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-08/</guid>
-      <description>2023-08 Monthly Summary
-The sum of sells with gain-only are +$12,105.78
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$12,105.78
- Year-To-Month gain, including Robinwoods(bitcoin), is +$95,379.99
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-08  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2023 07 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-07/</link>
-      <pubDate>Mon, 31 Jul 2023 13:00:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-07/</guid>
-      <description>2023-07 Monthly Summary
-The sum of sells with gain-only are +$14,173.27
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$14,173.27
- Year-To-Month gain, including Robinwoods(bitcoin), is +$83,247.21
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-07  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2023 06 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-06/</link>
-      <pubDate>Fri, 30 Jun 2023 13:00:36 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-06/</guid>
-      <description>2023-06 Monthly Summary
-The sum of sells with gain-only are +$13.801.24
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$14,021.26
- Year-To-Month gain, including Robinwoods(bitcoin), is +$69,100.94
- Year-To-Month gain break down by month.
- Monthly gain per stock, sorted by the gain in 2023-06  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader</description>
-    </item>
-    
-    <item>
-      <title>2023 05 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-05/</link>
-      <pubDate>Wed, 31 May 2023 13:00:36 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-05/</guid>
-      <description>2023-05 Monthly Summary
-The sum of sells with gain-only are +$12,859.65
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$12,859.65
-This month has more net gain, because there are 22 trading days in May, more than the average of 20.9 trading days per month, and more than 19 trading days in April.
- Year-To-Month gain, including Robinwoods(bitcoin), is +$55,079.68
- Monthly gain per stock, sorted by the gain in 2023-05  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2023 04 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-04/</link>
-      <pubDate>Fri, 28 Apr 2023 13:00:37 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-04/</guid>
-      <description>2023-04 Monthly Summary
-The sum of sells with gain-only are +$8,535.11
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$8,535.11
-This month has lower net gain, because there are only 19 trading days in April, 2 days less than the average of 20.9 trading days per month.
- Year-To-Month gain, including Robinwoods(bitcoin), is +$42,219.10
- Monthly gain per stock, sorted by the gain in 2023-04  All trades are based on the trade style described in</description>
-    </item>
-    
-    <item>
-      <title>2023 03 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-03/</link>
-      <pubDate>Fri, 31 Mar 2023 13:02:00 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-03/</guid>
-      <description>2023-03 Monthly Summary
-The sum of sells with gain-only are +$12,691.51
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$12,691.51
- Year-To-Month gain, including Robinwoods(bitcoin), is +$33,682.97
- Monthly gain per stock, sorted by the gain in 2023-03  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2023-03-31 Dow +1.</description>
-    </item>
-    
-    <item>
-      <title>2023 02 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-02/</link>
-      <pubDate>Tue, 28 Feb 2023 13:02:00 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-02/</guid>
-      <description>2023-02 Monthly Summary
-The sum of sells with gain-only are +$10,733.30
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is +$10,733.30
- Year-To-Month gain, including Robinwoods(bitcoin), is +$20,873.54
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2023-02-28 Dow -0.71% Nasdaq -0.10% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2023 01 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2023-01/</link>
-      <pubDate>Tue, 31 Jan 2023 13:01:00 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2023-01/</guid>
-      <description>2023-01 Monthly Summary
-The sum of sells with gain-only are $10.140.24
-The sum of sells with lost-only are -$0.00
-The net gain, including Robinwoods(bitcoin), is $10.140.24
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2023-01-31 Dow +1.09% Nasdaq +1.67% S&amp;amp;P 500 +1.46%
- 2023-01-30 Dow -0.77% Nasdaq -1.</description>
-    </item>
-    
-    <item>
-      <title>2022 12 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-12/</link>
-      <pubDate>Sat, 31 Dec 2022 13:01:03 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-12/</guid>
-      <description>2022-12 Monthly Summary
-Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.
-The sum of sells with gain-only are $11,623.31
-The sum of sells with lost-only are -$9192.00
-The net gain, including Robinwoods(bitcoin), is -$2,431.31
-I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.
- Year-To-Month gain, including Robinwoods(bitcoin), is $32,400.</description>
-    </item>
-    
-    <item>
-      <title>2022 11 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-11/</link>
-      <pubDate>Wed, 30 Nov 2022 13:03:03 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-11/</guid>
-      <description>2022-11 Monthly Summary
-Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.
-The sum of sells with gain-only are $11,194.51
-The sum of sells with lost-only are -$39,168.39
-The net gain, including Robinwoods(bitcoin), is -$27,973.88
-I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.
- Year-To-Month gain, including Robinwoods(bitcoin), is $29,969.</description>
-    </item>
-    
-    <item>
-      <title>2022 10 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-10/</link>
-      <pubDate>Mon, 31 Oct 2022 13:03:03 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-10/</guid>
-      <description>2022-10 Monthly Summary
-Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.
-The sum of sells with gain-only are $6,632.67
-The sum of sells with lost-only are -$23,770.01
-The net gain, including Robinwoods(bitcoin), is -$17,282.51
-I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.
- Year-To-Month gain, including Robinwoods(bitcoin), is $57,232.</description>
-    </item>
-    
-    <item>
-      <title>2022 09 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-09/</link>
-      <pubDate>Mon, 03 Oct 2022 13:02:03 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-09/</guid>
-      <description>2022-09 Monthly Summary
-Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.
-The sum of sells with gain-only are $5,587.52
-The sum of sells with lost-only are -$14,924.35
-The net gain, including Robinwoods(bitcoin), is -$9,336.82
-I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.
- Year-To-Month gain, including Robinwoods(bitcoin), is $75,379.</description>
-    </item>
-    
-    <item>
-      <title>2022 08 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-08/</link>
-      <pubDate>Wed, 31 Aug 2022 13:01:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-08/</guid>
-      <description>2022-08 Monthly Summary
-Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.
-The sum of sells with gain-only are $10,159.94
-The sum of sells with lost-only are -$7,240.00
-The net gain, including Robinwoods(bitcoin), is $2,919.94
-I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.
- Year-To-Month gain, including Robinwoods(bitcoin), is $84,716.</description>
-    </item>
-    
-    <item>
-      <title>2022 07 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-07/</link>
-      <pubDate>Sun, 31 Jul 2022 13:01:02 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-07/</guid>
-      <description>2022-07 Monthly Summary
-Started to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.
-The sum of sells with gain-only, including Robinwoods(bitcoin), are $8,058.42
-The sum of sells with lost-only are -$5,017.68
-The net gain, including Robinwoods(bitcoin), is $3,040.73
-I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.
- Year-To-Month gain, including Robinwoods(bitcoin), is $81,796.</description>
-    </item>
-    
-    <item>
-      <title>2022 06 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-06/</link>
-      <pubDate>Fri, 01 Jul 2022 13:01:01 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-06/</guid>
-      <description>2022-06 Monthly Summary
-CHWY contributed $1069 in total.
-All other short-term gains are around $7326
- Year-To-Month gain, including Robinwoods(bitcoin), is $78,755.79
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2022-06-30 Dow -0.82% Nasdaq -1.33% S&amp;amp;P 500 -0.88%
- 2022-06-29 Dow +0.27% Nasdaq -0.03% S&amp;amp;P 500 -0.07%</description>
-    </item>
-    
-    <item>
-      <title>2022 05 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-05/</link>
-      <pubDate>Wed, 01 Jun 2022 13:01:59 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-05/</guid>
-      <description>2022-05 Monthly Summary
-OXYWS contributed $2072.05 in total.
-All other short-term gains are around $6.213.79
- Year-To-Month gain, including Robinwoods(bitcoin), is $69,448.06
-  Besides, BitCoin has the gain of $632.65, which is about 6.3% gain this year so far.
- All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2022-05-31 Dow -0.</description>
-    </item>
-    
-    <item>
-      <title>2022 04 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-04/</link>
-      <pubDate>Sat, 30 Apr 2022 13:01:59 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-04/</guid>
-      <description>2022-04 Monthly Summary
-OXY and OXYWS contributed $2762.82 in total.
-All other short-term gains are around $4,451
- Year-To-Month gain, including Robinwoods(bitcoin), is $60,832.95
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2022-04-29 Dow -2.77% Nasdaq -4.17% S&amp;amp;P 500 -3.63%
- 2022-04-28 Dow +1.85% Nasdaq +3.06% S&amp;amp;P 500 +2.</description>
-    </item>
-    
-    <item>
-      <title>2022 03 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-03/</link>
-      <pubDate>Thu, 31 Mar 2022 13:10:57 -0700</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-03/</guid>
-      <description>2022-03 Monthly Summary
-OXY contributed $6652.26 in total.
-All other short-term gains are around $12,287
- Year-To-Month gain, including Robinwoods(bitcoin), is $52,252.57
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2022-03-31 Dow -1.56% Nasdaq -1.54% S&amp;amp;P 500 -1.57%
- 2022-03-30 Dow -0.19% Nasdaq -1.21% S&amp;amp;P 500 -0.63%</description>
-    </item>
-    
-    <item>
-      <title>2022 02 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-02/</link>
-      <pubDate>Tue, 01 Mar 2022 10:06:36 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-02/</guid>
-      <description>2022-02 Monthly Summary OXY contributed $6927.90 in total.
-The sum of long-Term gains from OXY, ACH, GDX are around $9167. All other short-term gains are around $7889
- Year-To-Month gain, including Robinwoods(bitcoin), is $33,176.39
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2022-02-28 Dow -0.49% Nasdaq +0.41% S&amp;amp;P 500 -0.</description>
-    </item>
-    
-    <item>
-      <title>2022-01 trade records &amp; summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2022-01/</link>
-      <pubDate>Sat, 05 Feb 2022 14:15:00 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2022-01/</guid>
-      <description>2022-01 Monthly Summary OXY contributed $9720.20 in total.
-  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2022-01-31 Dow +1.17% Nasdaq +3.41% S&amp;amp;P 500 +1.89%  2022-01-28 Dow +1.65% Nasdaq +3.13% S&amp;amp;P 500 +2.43%  2022-01-27 Dow -0.02% Nasdaq -1.40% S&amp;amp;P 500 -0.54%  2022-01-26 Dow -0.38% Nasdaq +0.</description>
-    </item>
-    
-    <item>
-      <title>2021-11 Gain Summary</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2021-11-summary/</link>
-      <pubDate>Wed, 01 Dec 2021 16:36:59 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2021-11-summary/</guid>
-      <description>Total gain from selling stock in 2021-11, excluding the trade/award/ESPP info of MSFT which I shouldn&amp;rsquo;t expose under legal requirement.
-Updated at Wednesday, December 1, 2021 4:35:54 PM PST  All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  </description>
-    </item>
-    
-    <item>
-      <title>2021-11 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2021-11/</link>
-      <pubDate>Wed, 01 Dec 2021 16:35:59 -0800</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2021-11/</guid>
-      <description>All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  Appended a limit sell of WNDW, updated at Wednesday, December 1, 2021 4:35:54 PM PST    Fixed the incorrect recording of &amp;ldquo;Bought&amp;rdquo;, updated at Wednesday, December 1, 2021 4:35:54 PM PST                  </description>
-    </item>
-    
-    <item>
-      <title>2021-12 trade records</title>
-      <link>https://zhengmu.github.io/AntsTrader/posts/2021-12/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhengmu.github.io/AntsTrader/posts/2021-12/</guid>
-      <description>All trades are based on the trade style described in
-How to Be a Happy Active Stock Trader
-Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS  2021-12-31 Continued to sell some underwater stock position to reduce the tax on short-term gain. Today has record-high 60 trades  2021-12-30 Continued to sell some underwater stock position to reduce the tax on short-term gain. Need to pay attention to avoid WASH SALE  2021-12-29 Continued to sell some underwater stock position to reduce the tax on short-term gain.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>AntsTrader</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on AntsTrader</description>
+		<generator>Hugo</generator>
+		<language>en-US</language>
+		
+		
+		
+		
+			<lastBuildDate>Fri, 05 Jun 2026 13:00:01 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>2026 06 trade records</title>
+				<link>http://localhost:1313/posts/2026-06/</link>
+				<pubDate>Fri, 05 Jun 2026 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026-06/</guid>
+				<description>&lt;p&gt;2026-06-05 Dow -1.35% Nasdaq -4.18% S&amp;amp;P 500 -2.64%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-06/images/20260605.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-06-04 Dow +1.73% Nasdaq -0.09% S&amp;amp;P 500 +0.41%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-06/images/20260604.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-06-03 Dow -1.21% Nasdaq -0.89% S&amp;amp;P 500 -0.74%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-06/images/20260603.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-06-02 Dow +0.45% Nasdaq +0.03% S&amp;amp;P 500 +0.13%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-06/images/20260602.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-06-01 Dow +0.09% Nasdaq +0.42% S&amp;amp;P 500 +0.26%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-06/images/20260601.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 05 trade records</title>
+				<link>http://localhost:1313/posts/2026-05/</link>
+				<pubDate>Fri, 29 May 2026 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026-05/</guid>
+				<description>&lt;p&gt;2026-05-29 Dow +0.72% Nasdaq +0.20% S&amp;amp;P 500 +0.22%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260529.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-05-28 Dow +0.05% Nasdaq +0.91% S&amp;amp;P 500 +0.58%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260528.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-05-27 Dow +0.36% Nasdaq +0.07% S&amp;amp;P 500 +0.02%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260527.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-05-26 Dow -0.23% Nasdaq +1.19% S&amp;amp;P 500 +0.61%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260526.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-05-22 Dow +0.78% Nasdaq +0.19% S&amp;amp;P 500 +0.37%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260522.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-05-21 Dow +0.55% Nasdaq +0.09% S&amp;amp;P 500 +0.17%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260521.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-05-20 Dow +1.31% Nasdaq +1.55% S&amp;amp;P 500 +1.08%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-05/images/20260520.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 04 trade records</title>
+				<link>http://localhost:1313/posts/2026-04/</link>
+				<pubDate>Thu, 30 Apr 2026 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026-04/</guid>
+				<description>&lt;p&gt;2026-04-30 Dow +1.62% Nasdaq +0.89% S&amp;amp;P 500 +1.02%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260430.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-04-29 Dow -0.57% Nasdaq +0.04% S&amp;amp;P 500 -0.04%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260429.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-04-28 Dow -0.05% Nasdaq -0.90% S&amp;amp;P 500 -0.49%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260428.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-04-27 Dow -0.13% Nasdaq +0.20% S&amp;amp;P 500 +0.12%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260427.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-04-24 Dow -0.17% Nasdaq +1.63% S&amp;amp;P 500 +0.80%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260424.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-04-23 Dow -0.36% Nasdaq -0.89% S&amp;amp;P 500 -0.41%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260423.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-04-22 Dow +0.69% Nasdaq +1.64% S&amp;amp;P 500 +1.05%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-04/images/20260422.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 03 trade records</title>
+				<link>http://localhost:1313/posts/2026-03/</link>
+				<pubDate>Tue, 31 Mar 2026 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026-03/</guid>
+				<description>&lt;p&gt;2026-03-31 Dow +2.49% Nasdaq +3.83% S&amp;amp;P 500 +2.91%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260331.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-03-30 Dow +0.11% Nasdaq -0.73% S&amp;amp;P 500 -0.39%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260330.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-03-27 Dow -1.73% Nasdaq -2.15% S&amp;amp;P 500 -1.67%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260327.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-03-26 Dow -1.01% Nasdaq -2.38% S&amp;amp;P 500 -1.74%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260326.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-03-25 Dow +0.66% Nasdaq +0.77% S&amp;amp;P 500 +0.54%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260325.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-03-24 Dow -0.18% Nasdaq -0.84% S&amp;amp;P 500 -0.37%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260324.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-03-23 Dow +1.38% Nasdaq +1.38% S&amp;amp;P 500 +1.15%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-03/images/20260323.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 02 trade records</title>
+				<link>http://localhost:1313/posts/2026-02/</link>
+				<pubDate>Fri, 27 Feb 2026 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026-02/</guid>
+				<description>&lt;p&gt;2026-02-27 Dow -1.03% Nasdaq -0.92% S&amp;amp;P 500 -0.43%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260227.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-02-26 Dow +0.03% Nasdaq -1.18% S&amp;amp;P 500 -0.54%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260226.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-02-25 Dow +0.63% Nasdaq +1.26% S&amp;amp;P 500 +0.81%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260225.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-02-24 Dow +0.76% Nasdaq +1.04% S&amp;amp;P 500 +0.77%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260224.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-02-23 Dow -1.66% Nasdaq -1.13% S&amp;amp;P 500 -1.04%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260223.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-02-20 Dow +0.47% Nasdaq +0.90% S&amp;amp;P 500 +0.69%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260220.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-02-19 Dow -0.54% Nasdaq -0.31% S&amp;amp;P 500 -0.28%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-02/images/20260219.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2026 01 trade records</title>
+				<link>http://localhost:1313/posts/2026-01/</link>
+				<pubDate>Fri, 30 Jan 2026 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2026-01/</guid>
+				<description>&lt;p&gt;2026-01-30 Dow -0.36% Nasdaq -0.94% S&amp;amp;P 500 -0.43%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260130.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-01-29 Dow +0.11% Nasdaq -0.72% S&amp;amp;P 500 -0.13%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260129.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-01-28 Dow +0.02% Nasdaq +0.17% S&amp;amp;P 500 -0.01%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260128.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-01-27 Dow -0.83% Nasdaq +0.91% S&amp;amp;P 500 +0.41%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260127.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-01-26 Dow +0.64% Nasdaq +0.43% S&amp;amp;P 500 +0.50%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260126.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-01-23 Dow -0.58% Nasdaq +0.28% S&amp;amp;P 500 +0.03%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260123.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2026-01-22 Dow +0.63% Nasdaq +0.91% S&amp;amp;P 500 +0.55%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2026-01/images/20260122.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 12 trade records</title>
+				<link>http://localhost:1313/posts/2025-12/</link>
+				<pubDate>Wed, 31 Dec 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-12/</guid>
+				<description>&lt;p&gt;2025-12-31 Dow -0.63% Nasdaq -0.76% S&amp;amp;P 500 -0.74%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251231.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-12-30 Dow -0.20% Nasdaq -0.23% S&amp;amp;P 500 -0.14%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251230.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-12-29 Dow -0.51% Nasdaq -0.50% S&amp;amp;P 500 -0.35%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251229.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-12-26 Dow -0.04% Nasdaq -0.09% S&amp;amp;P 500 -0.03%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251226.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-12-24 Dow +0.60% Nasdaq +0.22% S&amp;amp;P 500 +0.32%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251224.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-12-23 Dow +0.16% Nasdaq +0.57% S&amp;amp;P 500 +0.46%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251223.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-12-22 Dow +0.47% Nasdaq +0.52% S&amp;amp;P 500 +0.64%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-12/images/20251222.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 11 trade records</title>
+				<link>http://localhost:1313/posts/2025-11/</link>
+				<pubDate>Fri, 28 Nov 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-11/</guid>
+				<description>&lt;p&gt;2025-11-28 Dow +0.61% Nasdaq +0.65% S&amp;amp;P 500 +0.54%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251128.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-11-26 Dow +0.67% Nasdaq +0.82% S&amp;amp;P 500 +0.69%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251126.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-11-25 Dow +1.43% Nasdaq +0.67% S&amp;amp;P 500 +0.91%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251125.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-11-24 Dow +0.44% Nasdaq +2.69% S&amp;amp;P 500 +1.55%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251124.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-11-21 Dow +1.08% Nasdaq +0.88% S&amp;amp;P 500 +0.98%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251121.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-11-20 Dow -0.84% Nasdaq -2.15% S&amp;amp;P 500 -1.56%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251120.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-11-19 Dow +0.10% Nasdaq +0.59% S&amp;amp;P 500 +0.38%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-11/images/20251119.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 10 trade records</title>
+				<link>http://localhost:1313/posts/2025-10/</link>
+				<pubDate>Fri, 31 Oct 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-10/</guid>
+				<description>&lt;p&gt;2025-10-31 Dow +0.09% Nasdaq +0.61% S&amp;amp;P 500 +0.26%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251031.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-10-30 Dow -0.23% Nasdaq -1.57% S&amp;amp;P 500 -0.99%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251030.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-10-29 Dow -0.16% Nasdaq +0.55% S&amp;amp;P 500 -0.00%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251029.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-10-28 Dow +0.34% Nasdaq +0.80% S&amp;amp;P 500 +0.23%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251028.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-10-27 Dow +0.71% Nasdaq +1.86% S&amp;amp;P 500 +1.23%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251027.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-10-24 Dow +1.01% Nasdaq +1.15% S&amp;amp;P 500 +0.79%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251024.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-10-23 Dow +0.31% Nasdaq +0.89% S&amp;amp;P 500 +0.58%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-10/images/20251023.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 09 trade records</title>
+				<link>http://localhost:1313/posts/2025-09/</link>
+				<pubDate>Tue, 30 Sep 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-09/</guid>
+				<description>&lt;p&gt;2025-09-30 Dow +0.18% Nasdaq +0.30% S&amp;amp;P 500 +0.41%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250930.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-09-29 Dow +0.16% Nasdaq +0.48% S&amp;amp;P 500 +0.26%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250929.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-09-26 Dow +0.65% Nasdaq +0.44% S&amp;amp;P 500 +0.59%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250926.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-09-25 Dow -0.38% Nasdaq -0.50% S&amp;amp;P 500 -0.50%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250925.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-09-24 Dow -0.37% Nasdaq -0.34% S&amp;amp;P 500 -0.28%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250924.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-09-23 Dow -0.19% Nasdaq -0.95% S&amp;amp;P 500 -0.55%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250923.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-09-22 Dow +0.14% Nasdaq +0.70% S&amp;amp;P 500 +0.44%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-09/images/20250922.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 08 trade records</title>
+				<link>http://localhost:1313/posts/2025-08/</link>
+				<pubDate>Fri, 29 Aug 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-08/</guid>
+				<description>&lt;p&gt;2025-08-29 Dow -0.20% Nasdaq -1.15% S&amp;amp;P 500 -0.64%&lt;/p&gt;&#xA;&lt;p&gt;Didn&amp;rsquo;t do trade today due to long hour flight&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-08-28 Dow +0.16% Nasdaq +0.54% S&amp;amp;P 500 +0.32%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-08/images/20250828.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-08-27 Dow +0.32% Nasdaq +0.21% S&amp;amp;P 500 +0.41%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-08/images/20250827.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-08-26 Dow +0.30% Nasdaq +0.44% S&amp;amp;P 500 +0.41%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-08/images/20250826.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-08-25 Dow -0.77% Nasdaq -0.22% S&amp;amp;P 500 -0.43%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-08/images/20250825.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-08-22 Dow +1.89% Nasdaq +1.88% S&amp;amp;P 500 +1.52%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-08/images/20250822.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 07 trade records</title>
+				<link>http://localhost:1313/posts/2025-07/</link>
+				<pubDate>Thu, 31 Jul 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-07/</guid>
+				<description>&lt;p&gt;2025-07-31 Dow -0.74% Nasdaq -0.03% S&amp;amp;P 500 -0.37%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-07/images/20250731.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-07-30 Dow -0.38% Nasdaq +0.15% S&amp;amp;P 500 -0.12%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-07/images/20250730.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-07-29 Dow -0.46% Nasdaq -0.38% S&amp;amp;P 500 -0.30%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-07/images/20250729.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-07-28 Dow -0.14% Nasdaq +0.33% S&amp;amp;P 500 +0.02%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-07/images/20250728.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-07-25 Dow +0.47% Nasdaq +0.24% S&amp;amp;P 500 +0.40%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-07/images/20250725.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-07-24 Dow -0.70% Nasdaq +0.18% S&amp;amp;P 500 +0.07%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-07/images/20250724.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-07-23 Dow +1.14% Nasdaq +0.61% S&amp;amp;P 500 +0.78%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 06 trade records</title>
+				<link>http://localhost:1313/posts/2025-06/</link>
+				<pubDate>Mon, 30 Jun 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-06/</guid>
+				<description>&lt;p&gt;2025-06-30 Dow +0.63% Nasdaq +0.47% S&amp;amp;P 500 +0.52%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-06/images/20250630.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-06-27 Dow +1.00% Nasdaq +0.52% S&amp;amp;P 500 +0.52%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-06/images/20250627.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-06-26 Dow +0.94% Nasdaq +0.97% S&amp;amp;P 500 +0.80%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-06/images/20250626.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-06-25 Dow -0.25% Nasdaq +0.31% S&amp;amp;P 500 -0.00%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-06/images/20250625.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-06-24 Dow +1.19% Nasdaq +1.43% S&amp;amp;P 500 +1.11%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-06/images/20250624.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-06-23 Dow +0.89% Nasdaq +0.94% S&amp;amp;P 500 +0.96%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-06/images/20250623.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-06-20 Dow +0.08% Nasdaq -0.51% S&amp;amp;P 500 -0.22%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 05 trade records</title>
+				<link>http://localhost:1313/posts/2025-05/</link>
+				<pubDate>Fri, 30 May 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-05/</guid>
+				<description>&lt;p&gt;2025-05-30 Dow +0.13% Nasdaq -0.32% S&amp;amp;P 500 -0.01%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-05/images/20250530.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-05-29 Dow +0.28% Nasdaq +0.39% S&amp;amp;P 500 +0.40%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-05/images/20250529.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-05-28 Dow -0.58% Nasdaq -0.51% S&amp;amp;P 500 -0.56%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-05/images/20250528.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-05-27 Dow +1.78% Nasdaq +2.46% S&amp;amp;P 500 +2.05%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-05/images/20250527.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-05-26 US markets close due to Memorial Day&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-05-23 Dow -0.61% Nasdaq -1.00% S&amp;amp;P 500 -0.67%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-05/images/20250523.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-05-22 Dow -0.00% Nasdaq +0.28% S&amp;amp;P 500 -0.04%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 04 trade records</title>
+				<link>http://localhost:1313/posts/2025-04/</link>
+				<pubDate>Wed, 30 Apr 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-04/</guid>
+				<description>&lt;p&gt;2025-04-30 Dow +0.35% Nasdaq -0.09% S&amp;amp;P 500 +0.15%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-04/images/20250430.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-04-29 Dow +0.75% Nasdaq +0.55% S&amp;amp;P 500 +0.58%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-04/images/20250429.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-04-28 Dow +0.28% Nasdaq -0.10% S&amp;amp;P 500 +0.06%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-04/images/20250428.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-04-25 Dow +0.05% Nasdaq +1.26% S&amp;amp;P 500 +0.74%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-04/images/20250425.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-04-24 Dow +1.23% Nasdaq +2.74% S&amp;amp;P 500 +2.03%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-04/images/20250424.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-04-23 Dow +1.07% Nasdaq +2.50% S&amp;amp;P 500 +1.67%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-04/images/20250423.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-04-22 Dow +2.66% Nasdaq +2.71% S&amp;amp;P 500 +2.61%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 03 trade records</title>
+				<link>http://localhost:1313/posts/2025-03/</link>
+				<pubDate>Mon, 31 Mar 2025 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2025-03/</guid>
+				<description>&lt;p&gt;2025-03-31 Dow +1.00% Nasdaq -0.14% S&amp;amp;P 500 +0.55%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-03/images/20250331.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-03-28 Dow -1.69% Nasdaq -2.70% S&amp;amp;P 500 -1.97%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-03/images/20250328.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-03-27 Dow -0.37% Nasdaq -0.53% S&amp;amp;P 500 -0.33%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-03/images/20250327.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-03-26 Dow -0.31% Nasdaq -2.04% S&amp;amp;P 500 -1.12%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-03/images/20250326.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-03-25 Dow +0.01% Nasdaq +0.46% S&amp;amp;P 500 +0.16%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-03/images/20250325.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-03-24 Dow +1.42% Nasdaq +2.27% S&amp;amp;P 500 +1.76%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-03/images/20250324.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-03-21 Dow +0.08% Nasdaq +0.52% S&amp;amp;P 500 +0.08%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 02 trade records</title>
+				<link>http://localhost:1313/posts/2025-02/</link>
+				<pubDate>Fri, 28 Feb 2025 13:00:01 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2025-02/</guid>
+				<description>&lt;p&gt;2025-02-28 Dow +1.39% Nasdaq +1.63% S&amp;amp;P 500 +1.58%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-02/images/20250228.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-02-27 Dow -0.45% Nasdaq -2.78% S&amp;amp;P 500 -1.59%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-02/images/20250227.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-02-26 Dow -0.43% Nasdaq +0.26% S&amp;amp;P 500 +0.01%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-02/images/20250226.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-02-25 Dow +0.37% Nasdaq -1.35% S&amp;amp;P 500 -0.47%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-02/images/20250225.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-02-24 Dow +0.08% Nasdaq -1.21% S&amp;amp;P 500 -0.50%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-02/images/20250224.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-02-21 Dow -1.69% Nasdaq -2.20% S&amp;amp;P 500 -1.71%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-02/images/20250221.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2025-02-20 Dow -1.01% Nasdaq -0.47% S&amp;amp;P 500 -0.43%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2025 01 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2025-01/</link>
+				<pubDate>Fri, 31 Jan 2025 13:00:02 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2025-01/</guid>
+				<description>&lt;p&gt;2025-01 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-01/images/202501_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$18,674.32&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$18,677.33&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2025-01/images/202501_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2025-01&#xA;&lt;img src=&#34;http://localhost:1313/posts/2025-01/images/202501_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 12 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-12/</link>
+				<pubDate>Tue, 31 Dec 2024 13:00:02 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2024-12/</guid>
+				<description>&lt;p&gt;2024-12 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-12/images/202412_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$22,848.27&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$102.705.22&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is -$80.746.53&lt;/p&gt;&#xA;&lt;p&gt;No need to pay any capital gain tax this year   (✿◠‿◠)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-12/images/202412_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$137,731.20&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-12/images/202412_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-12/images/202412_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-14&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-12/images/202412_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-12/images/202412_gainbystock_2.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 11 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-11/</link>
+				<pubDate>Fri, 29 Nov 2024 13:00:02 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2024-11/</guid>
+				<description>&lt;p&gt;2024-11 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-11/images/202411_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$28,899.52&#xA;(Fidelity has wrong cost base for a few sell transactions.)&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00,&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$28,899.52&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-11/images/202411_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$218,477.73&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-11/images/202411_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-11/images/202411_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-11&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-11/images/202411_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 10 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-10/</link>
+				<pubDate>Thu, 31 Oct 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-10/</guid>
+				<description>&lt;p&gt;2024-10 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-10/images/202410_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$31,366.98&#xA;(Fidelity has wrong cost base for a few sell transactions.)&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00,&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$31,366.98&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-10/images/202410_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$190,760.73&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-10/images/202410_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-10/images/202410_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-10&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-10/images/202410_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 09 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-09/</link>
+				<pubDate>Mon, 30 Sep 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-09/</guid>
+				<description>&lt;p&gt;2024-09 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-09/images/202409_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$19745.32&#xA;(Fidelity has wrong cost base for a few sell transactions.)&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$12,730.84,&lt;/p&gt;&#xA;&lt;p&gt;!!!due to the bankrupcy of RADCQ and BFX !!!&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$7014.48&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-09/images/202409_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$158,211.23&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-09/images/202409_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-09/images/202409_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-09&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-09/images/202409_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 08 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-08/</link>
+				<pubDate>Fri, 30 Aug 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-08/</guid>
+				<description>&lt;p&gt;2024-08 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-08/images/202408_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$17.496.69&#xA;(Fidelity has wrong cost base for a few sell transactions.)&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$17.496.69&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-08/images/202408_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$151,104.47&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-08/images/202408_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-08/images/202408_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-08&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-08/images/202408_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 07 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-07/</link>
+				<pubDate>Wed, 31 Jul 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-07/</guid>
+				<description>&lt;p&gt;2024-07 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-07/images/202407_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$21,023.12&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$21,027.17&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-07/images/202407_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$133,607.77&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-07/images/202407_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-07/images/202407_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-07&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-07/images/202407_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 06 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-06/</link>
+				<pubDate>Fri, 28 Jun 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-06/</guid>
+				<description>&lt;p&gt;2024-06 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-06/images/202406_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$18,763.22&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$18,765.98&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-06/images/202406_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$112,580.60&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-06/images/202406_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-06/images/202406_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-06&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-06/images/202406_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 05 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-05/</link>
+				<pubDate>Fri, 31 May 2024 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-05/</guid>
+				<description>&lt;p&gt;2024-05 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-05/images/202405_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$26,762.49&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$26,762.49&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-05/images/202405_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$93,814.62&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-05/images/202405_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-05/images/202405_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-05&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-05/images/202405_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 04 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-04/</link>
+				<pubDate>Tue, 30 Apr 2024 13:00:06 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-04/</guid>
+				<description>&lt;p&gt;2024-04 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-04/images/202404_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$20,033.74&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$20,035.00&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-04/images/202404_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$67,045.18&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-04/images/202404_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-04/images/202404_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-04&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-04/images/202404_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 03 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-03/</link>
+				<pubDate>Sun, 31 Mar 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-03/</guid>
+				<description>&lt;p&gt;2024-03 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-03/images/202403_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$20,601.49&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$21,119.78&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-03/images/202403_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$47,010.18&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-03/images/202403_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-03/images/202403_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-03&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-03/images/202403_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 02 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-02/</link>
+				<pubDate>Thu, 29 Feb 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-02/</guid>
+				<description>&lt;p&gt;2024-02 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-02/images/202402_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$13,345.59&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$13,600.60&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-02/images/202402_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$25,890.41&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-02/images/202402_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-02/images/202402_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-02&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-02/images/202402_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2024 01 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2024-01/</link>
+				<pubDate>Wed, 31 Jan 2024 13:01:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2024-01/</guid>
+				<description>&lt;p&gt;2024-01 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-01/images/202401_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$12,382.61&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$12,382.61&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2024-01/images/202401_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2024-01&#xA;&lt;img src=&#34;http://localhost:1313/posts/2024-01/images/202401_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 12 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-12/</link>
+				<pubDate>Sun, 21 Jan 2024 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-12/</guid>
+				<description>&lt;p&gt;2023-12 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-12/images/202312_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$13,094.53&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$92,475.40&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is -$79,380.88&lt;/p&gt;&#xA;&lt;p&gt;No need to pay any capital gain tax this year   (✿◠‿◠)&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-12/images/202312_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$51,620.02&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-12/images/202312_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-12/images/202312_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-12&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-12/images/202312_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-12/images/202312_gainbystock_2.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 11 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-11/</link>
+				<pubDate>Thu, 30 Nov 2023 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-11/</guid>
+				<description>&lt;p&gt;2023-11 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-11/images/202311_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$14,305.21&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$14,488.61&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-11/images/202311_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$131,000.89&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-11/images/202311_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-11/images/202311_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-11&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-11/images/202311_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 10 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-10/</link>
+				<pubDate>Tue, 31 Oct 2023 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-10/</guid>
+				<description>&lt;p&gt;2023-10 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-10/images/202310_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$9,914.59&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$10,640.25&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-10/images/202310_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$116,512.28&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-10/images/202310_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-10/images/202310_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-10&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-10/images/202310_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 09 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-09/</link>
+				<pubDate>Sat, 30 Sep 2023 13:01:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-09/</guid>
+				<description>&lt;p&gt;2023-09 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-09/images/202309_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$10,491.08&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$10,491.08&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-09/images/202309_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$105.237.19&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-09/images/202309_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-09/images/202309_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-09&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-09/images/202309_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 08 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-08/</link>
+				<pubDate>Thu, 31 Aug 2023 13:00:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-08/</guid>
+				<description>&lt;p&gt;2023-08 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-08/images/202308_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$12,105.78&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$12,105.78&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-08/images/202308_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$95,379.99&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-08/images/202308_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-08/images/202308_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-08&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-08/images/202308_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 07 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-07/</link>
+				<pubDate>Mon, 31 Jul 2023 13:00:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-07/</guid>
+				<description>&lt;p&gt;2023-07 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-07/images/202307_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$14,173.27&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$14,173.27&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-07/images/202307_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$83,247.21&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-07/images/202307_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-07/images/202307_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-07&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-07/images/202307_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 06 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-06/</link>
+				<pubDate>Fri, 30 Jun 2023 13:00:36 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-06/</guid>
+				<description>&lt;p&gt;2023-06 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-06/images/202306_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$13.801.24&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$14,021.26&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-06/images/202306_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$69,100.94&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Year-To-Month gain break down by month.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-06/images/202306_yeartomonth_monthly.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-06/images/202306_yeartomonth_monthly_chart.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-06&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-06/images/202306_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 05 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-05/</link>
+				<pubDate>Wed, 31 May 2023 13:00:36 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-05/</guid>
+				<description>&lt;p&gt;2023-05 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-05/images/202305_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$12,859.65&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$12,859.65&lt;/p&gt;&#xA;&lt;p&gt;This month has more net gain, because there are 22 trading days in May, more than the average of 20.9 trading days per month, and more than 19 trading days in April.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-05/images/202305_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$55,079.68&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 04 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-04/</link>
+				<pubDate>Fri, 28 Apr 2023 13:00:37 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-04/</guid>
+				<description>&lt;p&gt;2023-04 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-04/images/202304_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$8,535.11&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$8,535.11&lt;/p&gt;&#xA;&lt;p&gt;This month has lower net gain, because there are only 19 trading days in April, 2 days less than the average of 20.9 trading days per month.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-04/images/202304_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$42,219.10&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-04&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-04/images/202304_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 03 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-03/</link>
+				<pubDate>Fri, 31 Mar 2023 13:02:00 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2023-03/</guid>
+				<description>&lt;p&gt;2023-03 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-03/images/202303_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$12,691.51&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$12,691.51&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-03/images/202303_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$33,682.97&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Monthly gain per stock, sorted by the gain in 2023-03&#xA;&lt;img src=&#34;http://localhost:1313/posts/2023-03/images/202303_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 02 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-02/</link>
+				<pubDate>Tue, 28 Feb 2023 13:02:00 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2023-02/</guid>
+				<description>&lt;p&gt;2023-02 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-02/images/202302_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are +$10,733.30&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is +$10,733.30&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-02/images/202302_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is +$20,873.54&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-02/images/202302_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2023 01 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2023-01/</link>
+				<pubDate>Tue, 31 Jan 2023 13:01:00 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2023-01/</guid>
+				<description>&lt;p&gt;2023-01 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-01/images/202301_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are $10.140.24&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$0.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is $10.140.24&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2023-01/images/202301_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2023-01-31 Dow +1.09% Nasdaq +1.67% S&amp;amp;P 500 +1.46%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 12 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-12/</link>
+				<pubDate>Sat, 31 Dec 2022 13:01:03 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-12/</guid>
+				<description>&lt;p&gt;2022-12 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-12/images/202212_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are $11,623.31&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$9192.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is -$2,431.31&lt;/p&gt;&#xA;&lt;p&gt;I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-12/images/202212_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 11 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-11/</link>
+				<pubDate>Wed, 30 Nov 2022 13:03:03 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-11/</guid>
+				<description>&lt;p&gt;2022-11 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-11/images/202211_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are $11,194.51&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$39,168.39&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is -$27,973.88&lt;/p&gt;&#xA;&lt;p&gt;I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-11/images/202211_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 10 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-10/</link>
+				<pubDate>Mon, 31 Oct 2022 13:03:03 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-10/</guid>
+				<description>&lt;p&gt;2022-10 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-10/images/202210_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are $6,632.67&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$23,770.01&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is -$17,282.51&lt;/p&gt;&#xA;&lt;p&gt;I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-10/images/202210_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 09 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-09/</link>
+				<pubDate>Mon, 03 Oct 2022 13:02:03 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-09/</guid>
+				<description>&lt;p&gt;2022-09 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-09/images/202209_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are $5,587.52&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$14,924.35&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is -$9,336.82&lt;/p&gt;&#xA;&lt;p&gt;I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-09/images/202209_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 08 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-08/</link>
+				<pubDate>Wed, 31 Aug 2022 13:01:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-08/</guid>
+				<description>&lt;p&gt;2022-08 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-08/images/202208_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;Continued to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only are $10,159.94&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$7,240.00&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is $2,919.94&lt;/p&gt;&#xA;&lt;p&gt;I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-08/images/202208_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 07 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-07/</link>
+				<pubDate>Sun, 31 Jul 2022 13:01:02 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-07/</guid>
+				<description>&lt;p&gt;2022-07 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-07/images/202207_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;Started to sell with lose before the short-term lost becomes long-term, for the sake of tax saving.&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with gain-only, including Robinwoods(bitcoin), are $8,058.42&lt;/p&gt;&#xA;&lt;p&gt;The sum of sells with lost-only are -$5,017.68&lt;/p&gt;&#xA;&lt;p&gt;The net gain, including Robinwoods(bitcoin), is $3,040.73&lt;/p&gt;&#xA;&lt;p&gt;I am trying to reduce the short-term gain in individual account, and get/convert more gains into my 401K and RothIRA accounts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-07/images/202207_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 06 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-06/</link>
+				<pubDate>Fri, 01 Jul 2022 13:01:01 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-06/</guid>
+				<description>&lt;p&gt;2022-06 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-06/images/202206_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;CHWY contributed $1069 in total.&lt;/p&gt;&#xA;&lt;p&gt;All other short-term gains are around $7326&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-06/images/202206_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is $78,755.79&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-06/images/202206_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2022-06-30 Dow -0.82% Nasdaq -1.33% S&amp;amp;P 500 -0.88%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-06/images/20220630.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 05 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-05/</link>
+				<pubDate>Wed, 01 Jun 2022 13:01:59 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-05/</guid>
+				<description>&lt;p&gt;2022-05 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-05/images/202205_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;OXYWS contributed $2072.05 in total.&lt;/p&gt;&#xA;&lt;p&gt;All other short-term gains are around $6.213.79&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-05/images/202205_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is $69,448.06&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-05/images/202205_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Besides, BitCoin has the gain of $632.65, which is about 6.3% gain this year so far.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-05/images/202205_bitcoin.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 04 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-04/</link>
+				<pubDate>Sat, 30 Apr 2022 13:01:59 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-04/</guid>
+				<description>&lt;p&gt;2022-04 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-04/images/202204_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;OXY and OXYWS contributed $2762.82 in total.&lt;/p&gt;&#xA;&lt;p&gt;All other short-term gains are around $4,451&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-04/images/202204_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is $60,832.95&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-04/images/202204_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2022-04-29 Dow -2.77% Nasdaq -4.17% S&amp;amp;P 500 -3.63%&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 03 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-03/</link>
+				<pubDate>Thu, 31 Mar 2022 13:10:57 -0700</pubDate>
+				<guid>http://localhost:1313/posts/2022-03/</guid>
+				<description>&lt;p&gt;2022-03 Monthly Summary&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-03/images/202203_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;OXY contributed $6652.26 in total.&lt;/p&gt;&#xA;&lt;p&gt;All other short-term gains are around $12,287&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-03/images/202203_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is $52,252.57&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-03/images/202203_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2022-03-31 Dow -1.56% Nasdaq -1.54% S&amp;amp;P 500 -1.57%&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-03/images/20220331.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022 02 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-02/</link>
+				<pubDate>Tue, 01 Mar 2022 10:06:36 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2022-02/</guid>
+				<description>&lt;p&gt;2022-02 Monthly Summary&#xA;&lt;img src=&#34;http://localhost:1313/posts/2022-02/images/202202_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;OXY contributed $6927.90 in total.&lt;/p&gt;&#xA;&lt;p&gt;The sum of long-Term gains from OXY, ACH, GDX are around $9167. All other short-term gains are around $7889&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-02/images/202202_yeartomonth.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Year-To-Month gain, including Robinwoods(bitcoin), is $33,176.39&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-02/images/202202_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2022-01 trade records &amp; summary</title>
+				<link>http://localhost:1313/posts/2022-01/</link>
+				<pubDate>Sat, 05 Feb 2022 14:15:00 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2022-01/</guid>
+				<description>&lt;p&gt;2022-01 Monthly Summary&#xA;&lt;img src=&#34;http://localhost:1313/posts/2022-01/images/202201_summary.gif&#34; alt=&#34;image alt text&#34;&gt;&#xA;OXY contributed $9720.20 in total.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2022-01/images/202201_gainbystock.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2022-01-31 Dow +1.17% Nasdaq +3.41% S&amp;amp;P 500 +1.89%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2022-01/images/20220131.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2022-01-28 Dow +1.65% Nasdaq +3.13% S&amp;amp;P 500 +2.43%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2022-01/images/20220128.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2022-01-27 Dow -0.02% Nasdaq -1.40% S&amp;amp;P 500 -0.54%&#xA;&lt;img src=&#34;http://localhost:1313/posts/2022-01/images/20220127.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2021-12 trade records</title>
+				<link>http://localhost:1313/posts/2021-12/</link>
+				<pubDate>Thu, 30 Dec 2021 13:11:00 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2021-12/</guid>
+				<description>&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2021-12-31 Continued to sell some underwater stock position to reduce the tax on short-term gain.&#xA;&lt;strong&gt;Today has record-high 60 trades&lt;/strong&gt;&#xA;&lt;img src=&#34;http://localhost:1313/posts/2021-12/images/20211231.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;2021-12-30 Continued to sell some underwater stock position to reduce the tax on short-term gain. Need to pay attention to avoid WASH SALE&#xA;&lt;img src=&#34;http://localhost:1313/posts/2021-12/images/20211230.gif&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>2021-11 Gain Summary</title>
+				<link>http://localhost:1313/posts/2021-11-summary/</link>
+				<pubDate>Wed, 01 Dec 2021 16:36:59 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2021-11-summary/</guid>
+				<description>&lt;p&gt;Total gain from selling stock in 2021-11, excluding the trade/award/ESPP info of MSFT which I shouldn&amp;rsquo;t expose under legal requirement.&lt;/p&gt;&#xA;&lt;p&gt;Updated at Wednesday, December 1, 2021 4:35:54 PM PST&#xA;&lt;img src=&#34;http://localhost:1313/posts/2021-11-summary/images/202111_gain.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;</description>
+			</item>
+			<item>
+				<title>2021-11 trade records</title>
+				<link>http://localhost:1313/posts/2021-11/</link>
+				<pubDate>Wed, 01 Dec 2021 16:35:59 -0800</pubDate>
+				<guid>http://localhost:1313/posts/2021-11/</guid>
+				<description>&lt;p&gt;All trades are based on the trade style described in&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.amazon.com/dp/B09JL574ND&#34;&gt;&lt;strong&gt;How to Be a Happy Active Stock Trader&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Beating S&amp;amp;P 500 by 30% in Year 2020 with ANTS&lt;/em&gt;&#xA;&lt;img src=&#34;http://localhost:1313/20210716_book_cover.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Appended a limit sell of WNDW, updated at Wednesday, December 1, 2021 4:35:54 PM PST&#xA;&lt;img src=&#34;http://localhost:1313/posts/2021-11/images/20211130.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2021-11/images/20211129.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/posts/2021-11/images/20211126.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Fixed the incorrect recording of &amp;ldquo;Bought&amp;rdquo;, updated at Wednesday, December 1, 2021 4:35:54 PM PST&#xA;&lt;img src=&#34;http://localhost:1313/posts/2021-11/images/20211124.jpg&#34; alt=&#34;image alt text&#34;&gt;&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
